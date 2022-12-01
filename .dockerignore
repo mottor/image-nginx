@@ -1,0 +1,6 @@
+# doku files which are not needed for build
+*.md
+
+# local binaries and caches
+/bin
+/obj
